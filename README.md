@@ -5,10 +5,11 @@ Herramienta para sacar informacion de una direccion IP.
 
 ![xd.png](https://github.com/D3dSecX/Trash-IP/blob/main/Image/Screenshot%20from%202022-05-12%2020-18-30.png)
 
-## Kali and Parrot
-Step 1. sudo su
+![xd2.png](https://github.com/D3dSecX/Trash-IP/blob/main/Image/Screenshot%20from%202022-05-12%2020-19-20.png)
 
-Step 2. git clone https://github.com/D3dSecX/Trash-IP.git
+## Kali and Parrot
+
+Step 1. git clone https://github.com/D3dSecX/Trash-IP.git
 
 Step 3. cd Trash-IP
 
@@ -22,3 +23,9 @@ Step 2. cd Trash-IP/
 Step 3. bash termux.sh
 
 Step 4. python3 Trash-IP.py
+
+## Examples:
+
+python3 Trash-IP.py --IP 187.190.65.157 
+
+python3 Trash-IP.py -i 187.190.65.157 
