@@ -11,9 +11,9 @@ Herramienta para sacar informacion de una direccion IP.
 
 Step 1. git clone https://github.com/D3dSecX/Trash-IP.git
 
-Step 3. cd Trash-IP
+Step 2. cd Trash-IP
 
-Step 4. python3 Trash-IP.py
+Step 3. python3 Trash-IP.py
 
 ## Termux
 Step 1. git clone https://github.com/D3dSecX/Trash-IP.git
