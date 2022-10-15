@@ -9,14 +9,14 @@ Herramienta para sacar informacion de una direccion IP.
 
 ## Kali and Parrot
 
-Step 1. git clone https://github.com/D3dSecX/Trash-IP.git
+Step 1. git clone https://github.com/GhosTCyka/Trash-IP.git
 
 Step 2. cd Trash-IP
 
 Step 3. python3 Trash-IP.py
 
 ## Termux
-Step 1. git clone https://github.com/D3dSecX/Trash-IP.git
+Step 1. git clone https://github.com/GhosTCyka/Trash-IP.git
 
 Step 2. cd Trash-IP/
 
